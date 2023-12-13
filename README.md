@@ -1,2 +1,2 @@
 # sweetcode
-attempt to make my own cp platform using webdev, sockets
+attempt to make a own cp platform using webdev, sockets
